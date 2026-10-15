@@ -67,6 +67,9 @@ button:active {
   transition: all 0.4s ease;
   animation: fadeInUp 0.8s ease;
 }
+.choices:empty {
+  display: none;
+}
 
 #results {
   font-size: 1.4rem;
