@@ -78,7 +78,6 @@ button:active {
   animation: pop 0.8s ease;
 }
 
-/* phones */
 @media (max-width: 480px) {
   h1 {
     font-size: 1.8rem;
